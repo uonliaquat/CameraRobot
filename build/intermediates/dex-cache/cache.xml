@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c7d5ef43fd5658951a99425620fc090701b5878/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dfda622ed72f32cd0575faa7c13171165935cd5">
+        <dex dex="/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c9166e30b0755b97151bfe7ef280eb75bcb6377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd64859322239607068972cf78e07d6c09c4c1c7/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="dark_tranparent">#20000000</color>
+    <color name="green">#136755</color>
+    <color name="light_green">#3fa992</color>
+    <color name="light_pink">#fe3e7a</color>
+    <color name="pink">#ca2559</color>
+    <color name="text_pink">@color/pink</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#fffbd5</color>
+    <dimen name="action_button_content_margin">16dp</dimen>
+    <dimen name="action_button_margin">12dp</dimen>
+    <dimen name="action_button_size">72dp</dimen>
+    <dimen name="action_menu_radius">96dp</dimen>
+    <dimen name="sub_action_button_content_margin">6dp</dimen>
+    <dimen name="sub_action_button_size">36dp</dimen>
+    <string name="app_name">UM2</string>
+    <string name="connected">Connected</string>
+    <string name="connection_accepted">Connection accepted</string>
+    <string name="connection_down">Connection down, will be restart service in 1 seconds</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="default_ip_address">0.0.0.0</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image_quality">Image Quality %1$s %%</string>
+    <string name="image_resolution">Image Resolution</string>
+    <string name="incompatible_firmware">Incompatible firmware version</string>
+    <string name="ip_address">IP Address</string>
+    <string name="menu_settings">Settings</string>
+    <string name="movement_speed">Speed %1$s</string>
+    <string name="out_of_memory">Out of memory. Please decrease image quality and preview size.</string>
+    <string name="password">Password</string>
+    <string name="password_is_required">Password is required.</string>
+    <string name="photo_taken">Photo Taken.</string>
+    <string name="unavailable_flash_mode">Unavailable Flash Mode.</string>
+    <string name="unsupport_flash">Device not support flash</string>
+    <string name="wrong_password">Wrong Password</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_dark.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_dark.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_dark.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_dark.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_dark_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_dark_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_dark_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_dark_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_dark_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_dark_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_dark.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_dark.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_dark.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_dark.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_dark_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_dark_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_dark.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_dark.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fab_add.png",
+        "source": "/Users/falcons16/.android/build-cache/3536fce966c097b536a5d786ffde40e882497ef0/output/res/drawable-xxhdpi-v4/fab_add.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_dark_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_dark_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_sub_action_dark.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_sub_action_dark.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_touch.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_action_dark_touch.png",
+        "source": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/drawable-xxhdpi-v4/button_action_dark_touch.png"
+    }
+]

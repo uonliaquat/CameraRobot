@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_parent2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical" >
+
+    <SurfaceView
+        android:id="@+id/surface_preview2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        />
+
+    <ImageView
+        android:id="@+id/iv_camera_image"
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
+        android:contentDescription="@null"
+        android:rotation="270" />
+
+    <ImageView
+        android:id="@+id/iv_controller"
+        android:layout_width="360dp"
+        android:layout_height="200dp"
+        android:layout_marginRight="-200dp"
+        android:layout_toLeftOf="@+id/buttons_layout"
+        />
+
+    <!--<ImageView-->
+        <!--android:id="@+id/iv_controller"-->
+        <!--android:layout_width="120dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_toLeftOf="@+id/buttons_layout"-->
+        <!--/>-->
+
+
+    <LinearLayout
+        android:id="@+id/buttons_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical"
+        android:visibility="invisible"
+        >
+
+        <Button
+            android:id="@+id/btn_auto_focus"
+            android:layout_width="@dimen/command_button_size"
+            android:layout_height="@dimen/command_button_size"
+            android:layout_margin="@dimen/command_button_margin"
+            android:background="@drawable/button_focus" />
+
+        <Button
+            android:id="@+id/btn_take_photo"
+            android:layout_width="@dimen/command_button_size"
+            android:layout_height="@dimen/command_button_size"
+            android:layout_margin="@dimen/command_button_margin"
+            android:background="@drawable/button_snap" />
+
+        <CheckBox
+            android:id="@+id/cbFlash"
+            android:layout_width="@dimen/command_button_size"
+            android:layout_height="@dimen/command_button_size"
+            android:layout_margin="@dimen/command_button_margin"
+            android:background="@drawable/button_flash"
+            android:button="@null" />
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/layout_joystick"
+        android:layout_width="@dimen/controller_size"
+        android:layout_height="@dimen/controller_size"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="50dp"
+        android:backgroundTint="#ffffff"
+        android:background="@drawable/image_button_bg" >
+    </RelativeLayout>
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/layout_joystick"-->
+        <!--android:layout_width="@dimen/controller_size"-->
+        <!--android:layout_height="@dimen/controller_size"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_margin="@dimen/controller_margin"-->
+        <!--android:backgroundTint="#ffffff"-->
+        <!--android:background="@drawable/image_button_bg" >-->
+    <!--</RelativeLayout>-->
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.ytai.ioio:IOIOLibAndroidBluetooth-5.05">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroidBluetooth-5.05.aar/87c71967a30daa19789a403832627276/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroidBluetooth-5.05.aar/87c71967a30daa19789a403832627276/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

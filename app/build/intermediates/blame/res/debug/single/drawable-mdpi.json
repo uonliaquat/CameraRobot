@@ -1,0 +1,874 @@
+[
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_cancel_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_up_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/spinner_dropdownlist_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_divider.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/image_divider.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_control.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/dialog_header_control.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_center.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_login_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/image_button.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_on_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_off_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_ioio_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_stripe_bg.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/seekbar_stripe_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_down_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_snap_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_ioio.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/dialog_header_ioio.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_plus.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_mode_control_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_upright_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_downright_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_cancel_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_mode.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_mode.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_start_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_upright_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_flash_off_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_focus_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_camera.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_mode1.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_mode1.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button_bg.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/image_button_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_ioio.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/dialog_header_ioio.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/spinner_dropdownlist_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_snap_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_on_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/center.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_upleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_tick.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_tick.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_off_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/spinner_bg_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_ioio_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_cancel_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_upright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/spinner_dropdownlist_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_upleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/spinner_dropdownlist_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_start_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_hand0.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hand0.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_mode_ioio_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_right_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_hearing.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hearing.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_bg.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/seekbar_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_upleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_upright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/spinner_bg_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_focus_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_login_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_stripe_bg.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/seekbar_stripe_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_tick.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_tick.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_control_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/edittext_bg.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/edittext_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button_bg.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/image_button_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_downright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_right_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/center.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_ioio_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_downright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_flash_on_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_snap_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_start_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_snap_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_upright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_camera.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_stripe_bg.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/seekbar_stripe_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_right_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_focus_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_snap_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_on_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/spinner_dropdownlist_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_upleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/spinner_bg_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_ioio_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_cancel_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_ioio_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_right_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/image_button.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_divider.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/image_divider.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_on_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_center.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_down_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_left_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_start_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_add.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/edittext_bg.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/edittext_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_down_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_upleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_focus_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_login_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_snap_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_right_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_login_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_off_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_downright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_focus_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_right_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_control.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/dialog_header_control.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_start_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_hearing.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hearing.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/spinner_dropdownlist_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_left_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_control_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/spinner_dropdownlist_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_left.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_left.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_upright_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_down_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/edittext_bg.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/edittext_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_down_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_flash_off_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_center.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_upleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_flash_on_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/center.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_upright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_downleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_off_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button_bg.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/image_button_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_downleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_ioio.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/dialog_header_ioio.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_downright_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_start_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_up_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_ioio.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/dialog_header_ioio.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_downright_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_down_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_mode.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_mode.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_downleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_right.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_right.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_focus_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/spinner_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_up_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_snap_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_stripe_bg.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/seekbar_stripe_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_mode_control_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_on_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_control_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_up_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/image_button.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/image_divider.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/image_divider.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_on_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_on_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_focus_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_left_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_center.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_right_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_bg.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/seekbar_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_downleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_up_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_left_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_dropdownlist_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/spinner_dropdownlist_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_down_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_hand1.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hand1.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_mode_ioio_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_plus.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_start_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_bg.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/seekbar_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/seekbar_bg.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/seekbar_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_control_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/spinner_bg_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_snap_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_snap_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_control_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_focus_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_focus_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_left_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/spinner_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_up_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_left_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_add.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_upleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_cancel_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_control_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_control_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_downleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_left.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_left.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_downright_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_normal.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_off_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/spinner_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/image_button.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upleft_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_upleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_start_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_start_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_mode_ioio_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_mode_ioio_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_control.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/dialog_header_control.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_hand0.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hand0.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_hand1.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hand1.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_upright_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_upright_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_flash_off_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_flash_off_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_left_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_pressed.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/drawable-mdpi/button_up_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/dialog_header_control.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/dialog_header_control.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_pressed.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/image_button_bg.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/image_button_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_normal.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/button_downleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_login_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_right_normal.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_right_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/spinner_bg_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/spinner_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_mode1.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_mode1.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/edittext_bg.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/edittext_bg.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_downleft_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/image_divider.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/image_divider.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downleft_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_downleft_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_down_pressed.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_down_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/button_left_normal.png",
+        "source": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/drawable-mdpi/button_left_normal.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/center.png",
+        "source": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/drawable-mdpi/center.png"
+    },
+    {
+        "merged": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_right.png",
+        "source": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/generated/res/pngs/debug/drawable-mdpi/ic_right.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_up_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_up_pressed.png"
+    },
+    {
+        "merged": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/res/merged/debug/drawable-mdpi/button_downright_pressed.png",
+        "source": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/drawable-mdpi/button_downright_pressed.png"
+    }
+]

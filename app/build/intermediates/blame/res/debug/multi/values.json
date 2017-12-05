@@ -1,0 +1,2437 @@
+[
+    {
+        "outputFile": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 39,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 51,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 51,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 39,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 39,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 45,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 45,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 44,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 44,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 38,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 47,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 39,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 39,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 40,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 40,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 49,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 47,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 47,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 67,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 67,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 97,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 97,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 63,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 63,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 54,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 54,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 53,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 53,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 52,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 63,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 63,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 61,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 61,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 79,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 79,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 49,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 49,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 50,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 50,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 53,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 53,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 104,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 104,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 45,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 45,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endColumn": 70,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 70,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 52,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 52,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 74,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 74,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 68,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 68,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 57,
+                    "endOffset": 1769
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 57,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1774,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2242
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/IOIO-CameraRobot-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/falcons16/Desktop/CameraRobot/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 39,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 51,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 51,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 39,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 39,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 45,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 45,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 44,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 44,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 38,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 47,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 39,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 39,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 40,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 40,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 59,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 59,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 51,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 51,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 49,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 49,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 49,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 49,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 62,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 62,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endColumn": 53,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 53,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 49,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 47,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 47,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 67,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 67,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 97,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 97,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 63,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 63,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 54,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 54,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 53,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 53,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endColumn": 52,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 63,
+                    "endOffset": 1324
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 63,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1329,
+                    "endColumn": 61,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 61,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 79,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 79,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 49,
+                    "endOffset": 1516
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 49,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1521,
+                    "endColumn": 50,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 50,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 53,
+                    "endOffset": 1621
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 53,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1626,
+                    "endColumn": 104,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 104,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endColumn": 45,
+                    "endOffset": 1772
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 45,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1777,
+                    "endColumn": 70,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 70,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 52,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 52,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 74,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 74,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 68,
+                    "endOffset": 2040
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 68,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2045,
+                    "endColumn": 57,
+                    "endOffset": 2098
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 57,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2103,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2411
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2416,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/CameraRobot/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/falcons16/Downloads/CameraRobot/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 39,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 51,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 51,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 39,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 39,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 45,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 45,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 44,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 44,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 38,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 47,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 47,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 39,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 39,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 40,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 40,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 49,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 47,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 47,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 67,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 67,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 97,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 97,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 63,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 63,
+                        "endOffset": 1200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 54,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 54,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 53,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 53,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 52,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 63,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 63,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 61,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 61,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 79,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 79,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 49,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 49,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 50,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 50,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 53,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 53,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 104,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 104,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 45,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 45,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endColumn": 70,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 70,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 52,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1263,
+                        "endColumn": 52,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 74,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 74,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 68,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 68,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 57,
+                    "endOffset": 1769
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 57,
+                        "endOffset": 1258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1774,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2242
+                },
+                "from": {
+                    "file": "/Users/falcons16/Downloads/CameraRobot/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 51,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 39,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 45,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 44,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 38,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 47,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 39,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 40,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 59,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 51,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 49,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 49,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 62,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endColumn": 53,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/Users/falcons16/.android/build-cache/e104d3de10b91f3914d451655a2d81ae82f98cf2/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 40,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 47,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endColumn": 67,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 97,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endColumn": 63,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 54,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 53,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 52,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 63,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 61,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 79,
+                    "endOffset": 1457
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1462,
+                    "endColumn": 49,
+                    "endOffset": 1507
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1512,
+                    "endColumn": 50,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 53,
+                    "endOffset": 1612
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1617,
+                    "endColumn": 104,
+                    "endOffset": 1717
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1722,
+                    "endColumn": 45,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 70,
+                    "endOffset": 1834
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1839,
+                    "endColumn": 52,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1892,
+                    "endColumn": 74,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1967,
+                    "endColumn": 68,
+                    "endOffset": 2031
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2036,
+                    "endColumn": 57,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2194
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2199,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2266
+                },
+                "from": {
+                    "file": "/Users/falcons16/Desktop/Backup/CameraRobot/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
