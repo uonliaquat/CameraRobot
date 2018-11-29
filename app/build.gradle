@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+        applicationId "app.akexorcist.ioiocamerarobot"
+        minSdkVersion 15
+        targetSdkVersion 28
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v13:28.0.0'
+    implementation 'com.github.ytai.ioio:IOIOLibAndroid:5.05'
+    implementation 'com.github.ytai.ioio:IOIOLibAndroidBluetooth:5.05'
+    implementation 'com.oguzdev:CircularFloatingActionMenu:1.0.2'
+}

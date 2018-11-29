@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/falcons16/.gradle/caches/transforms-1/files-1.1/CircularFloatingActionMenu-1.0.2.aar/65312a4b4f00713d8b3a4d19642d1e5b/res/values/values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "191,251,303,353,403,466",
+                        "endColumns": "59,51,49,49,62,53",
+                        "endOffsets": "246,298,348,398,461,515"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,115,167,217,267,330",
+                        "endColumns": "59,51,49,49,62,53",
+                        "endOffsets": "110,162,212,262,325,379"
+                    }
+                }
+            ]
+        }
+    ]
+}

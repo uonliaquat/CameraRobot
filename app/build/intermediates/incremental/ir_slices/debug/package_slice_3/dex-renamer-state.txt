@@ -1,0 +1,4 @@
+#Thu Nov 29 02:29:48 PKT 2018
+base.0=/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

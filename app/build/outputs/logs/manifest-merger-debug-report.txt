@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/2875ee7367991fa3b8a0a741643b9fec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ytai.ioio:IOIOLibAndroidBluetooth:5.05] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroidBluetooth-5.05.aar/f3fe06c7523b7c0f4eefe8dbb836ce0f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ytai.ioio:IOIOLibAndroid:5.05] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroid-5.05.aar/05923f434f9ab70153dadad54e573031/AndroidManifest.xml:2:1-9:12
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/CircularFloatingActionMenu-1.0.2.aar/936267717d2c13e08ee2fed4e131720c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/924117d9298c2bc6bd0c6ac1c53d6596/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/cd88e0260bdd7a6d6f1bb0a77f02deb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9775c44c8d7c8d32beb59d15c5b095e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/93df36b7b85d7ee538759a0560c6cb44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d9591b9c0a6f99cd30a321cfcc99fc87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7f4794cf896e57de6e5f9b46cc8e2bab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ac4d75aaf22afc3d6e67e903575414b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b92c3c8c57e65d9725638d3b01bcc69e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6ed54c2fba3608d146287df0f4c5d0cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/57347975d58fa655c3844f486c3143c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8f46030887d7f00ea7a1d121db996608/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15fb0b325e67007332930b3ed9ece837/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cf9b39d6a70793d94e182a3d78b6dfc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bfe8afaaeeed656c6362ad0d243fe53d/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/48837cc2c3f312a4c9e82716631168c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/29343a8cbe4ac81634307993b530e343/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a6088b2b4c8efee476d5b3df111b9cd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0a302ec718466b9fa7ed8b530ab80219/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/76f15776bbf83f059746a4543dee805a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0d26d23ebedfd9db6b7fb311e6829ef6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/689834b8fc4033102fb4e204a7defb24/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0d6d616e87ea08fca58c1224eced9c85/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d606d0e32bfaab86a612a1135b8a0d96/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79a7dd04a65d731c0a9ec5c3fcccc06b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:4:5-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.github.ytai.ioio:IOIOLibAndroid:5.05] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroid-5.05.aar/05923f434f9ab70153dadad54e573031/AndroidManifest.xml:7:5-67
+MERGED from [com.github.ytai.ioio:IOIOLibAndroid:5.05] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroid-5.05.aar/05923f434f9ab70153dadad54e573031/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CAMERA
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:13:5-68
+MERGED from [com.github.ytai.ioio:IOIOLibAndroidBluetooth:5.05] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroidBluetooth-5.05.aar/f3fe06c7523b7c0f4eefe8dbb836ce0f/AndroidManifest.xml:7:5-68
+MERGED from [com.github.ytai.ioio:IOIOLibAndroidBluetooth:5.05] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/IOIOLibAndroidBluetooth-5.05.aar/f3fe06c7523b7c0f4eefe8dbb836ce0f/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:14:22-71
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:15:22-68
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:20:9-53
+application
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:23:5-63:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bfe8afaaeeed656c6362ad0d243fe53d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bfe8afaaeeed656c6362ad0d243fe53d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:25:9-39
+	android:allowBackup
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:27:9-40
+uses-library#com.android.future.usb.accessory
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:29:13-60
+activity#app.akexorcist.ioiocamerarobot.splashscreen.SplashScreenActivity
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:32:9-46:20
+	android:screenOrientation
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:33:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:37:27-74
+intent-filter#action:name:android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:39:13-41:29
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:40:17-93
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:40:25-90
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:43:13-45:60
+	android:resource
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:45:17-57
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:44:17-82
+activity#app.akexorcist.ioiocamerarobot.menu.MenuActivity
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:47:9-49:57
+	android:screenOrientation
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:48:13-46
+activity#app.akexorcist.ioiocamerarobot.controller.ControllerActivity
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:50:9-52:57
+	android:screenOrientation
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:51:13-58
+activity#app.akexorcist.ioiocamerarobot.controller.ControllerSetupActivity
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:53:9-55:57
+	android:screenOrientation
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:55:13-54
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:54:13-63
+activity#app.akexorcist.ioiocamerarobot.ioio.IOIOControllerActivity
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:56:9-58:56
+	android:screenOrientation
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:58:13-53
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:57:13-56
+activity#app.akexorcist.ioiocamerarobot.ioio.IOIOSetupActivity
+ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:59:9-61:56
+	android:screenOrientation
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:61:13-53
+	android:name
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:60:13-51
+uses-sdk
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/2875ee7367991fa3b8a0a741643b9fec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/2875ee7367991fa3b8a0a741643b9fec/AndroidManifest.xml:20:5-44
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/CircularFloatingActionMenu-1.0.2.aar/936267717d2c13e08ee2fed4e131720c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/CircularFloatingActionMenu-1.0.2.aar/936267717d2c13e08ee2fed4e131720c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/924117d9298c2bc6bd0c6ac1c53d6596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/924117d9298c2bc6bd0c6ac1c53d6596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/cd88e0260bdd7a6d6f1bb0a77f02deb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/cd88e0260bdd7a6d6f1bb0a77f02deb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9775c44c8d7c8d32beb59d15c5b095e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9775c44c8d7c8d32beb59d15c5b095e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/93df36b7b85d7ee538759a0560c6cb44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/93df36b7b85d7ee538759a0560c6cb44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d9591b9c0a6f99cd30a321cfcc99fc87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d9591b9c0a6f99cd30a321cfcc99fc87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7f4794cf896e57de6e5f9b46cc8e2bab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7f4794cf896e57de6e5f9b46cc8e2bab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ac4d75aaf22afc3d6e67e903575414b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ac4d75aaf22afc3d6e67e903575414b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b92c3c8c57e65d9725638d3b01bcc69e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b92c3c8c57e65d9725638d3b01bcc69e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6ed54c2fba3608d146287df0f4c5d0cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6ed54c2fba3608d146287df0f4c5d0cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/57347975d58fa655c3844f486c3143c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/57347975d58fa655c3844f486c3143c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8f46030887d7f00ea7a1d121db996608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8f46030887d7f00ea7a1d121db996608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15fb0b325e67007332930b3ed9ece837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15fb0b325e67007332930b3ed9ece837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cf9b39d6a70793d94e182a3d78b6dfc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cf9b39d6a70793d94e182a3d78b6dfc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bfe8afaaeeed656c6362ad0d243fe53d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bfe8afaaeeed656c6362ad0d243fe53d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/48837cc2c3f312a4c9e82716631168c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/48837cc2c3f312a4c9e82716631168c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/29343a8cbe4ac81634307993b530e343/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/29343a8cbe4ac81634307993b530e343/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a6088b2b4c8efee476d5b3df111b9cd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a6088b2b4c8efee476d5b3df111b9cd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0a302ec718466b9fa7ed8b530ab80219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0a302ec718466b9fa7ed8b530ab80219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/76f15776bbf83f059746a4543dee805a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/76f15776bbf83f059746a4543dee805a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0d26d23ebedfd9db6b7fb311e6829ef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0d26d23ebedfd9db6b7fb311e6829ef6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/689834b8fc4033102fb4e204a7defb24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/689834b8fc4033102fb4e204a7defb24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0d6d616e87ea08fca58c1224eced9c85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0d6d616e87ea08fca58c1224eced9c85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d606d0e32bfaab86a612a1135b8a0d96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d606d0e32bfaab86a612a1135b8a0d96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79a7dd04a65d731c0a9ec5c3fcccc06b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/79a7dd04a65d731c0a9ec5c3fcccc06b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12 reason: ioio.lib.bluetooth has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/AndroidManifest.xml:2:1-64:12 reason: ioio.lib.bluetooth requested WRITE_EXTERNAL_STORAGE

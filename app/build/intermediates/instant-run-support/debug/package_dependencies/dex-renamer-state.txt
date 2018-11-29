@@ -1,0 +1,22 @@
+#Fri Oct 13 00:36:22 PKT 2017
+renamed.6=classes5.dex
+renamed.5=classes.dex
+renamed.4=classes7.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes6.dex
+base.6=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_dd6ca35f1d6a4590b3811a5a7a199c4ac2940533
+base.5=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_791fd0f43b2db08d6b3b84782f1ac5c297d025f9
+base.4=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_50e9109d6d3c2650052e54ca33ea1fd1c7750253
+base.3=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbe302d81390ce35748110247aca38f9c0d6c6f2
+base.2=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c7d5ef43fd5658951a99425620fc090701b5878
+base.1=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b283da7c5d1e90a72ca09cb885c7cd350607c3d4
+base.0=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/IOIOLibCore-5.05_43f17e7fe6dd3524d3915e5d05d7ab3463bb199b
+file.6=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_dd6ca35f1d6a4590b3811a5a7a199c4ac2940533/classes.dex
+file.5=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_791fd0f43b2db08d6b3b84782f1ac5c297d025f9/classes.dex
+file.4=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_50e9109d6d3c2650052e54ca33ea1fd1c7750253/classes.dex
+file.3=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbe302d81390ce35748110247aca38f9c0d6c6f2/classes.dex
+file.2=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c7d5ef43fd5658951a99425620fc090701b5878/classes.dex
+file.1=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b283da7c5d1e90a72ca09cb885c7cd350607c3d4/classes.dex
+file.0=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dex/debug/folders/1000/10/IOIOLibCore-5.05_43f17e7fe6dd3524d3915e5d05d7ab3463bb199b/classes.dex

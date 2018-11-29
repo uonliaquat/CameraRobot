@@ -1,0 +1,1570 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-normal-v4_values-normal-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/res/values-normal/dimens.xml",
+                    "from": {
+                        "startLines": "37,36,11,10,21,20,19,3,18,17,27,28,29,6,8,7,5,14,24,33,32,4,13,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1598,1548,538,476,1024,969,915,153,863,812,1228,1276,1326,310,415,363,260,699,1129,1461,1411,208,648,597",
+                        "endColumns": "50,49,56,56,59,51,50,51,48,47,45,48,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "1644,1593,590,528,1079,1016,961,200,907,855,1269,1320,1371,353,462,406,303,745,1176,1508,1456,253,689,638"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,213,270,330,382,433,485,534,582,628,677,727,775,827,875,923,974,1026,1078,1128,1178,1224",
+                        "endColumns": "50,49,56,56,59,51,50,51,48,47,45,48,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "101,151,208,265,325,377,428,480,529,577,623,672,722,770,822,870,918,969,1021,1073,1123,1173,1219,1265"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b92c3c8c57e65d9725638d3b01bcc69e/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,13,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,724,5935",
+                        "endLines": "2,12,101,104",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,719,5930,6075"
+                    },
+                    "to": {
+                        "startLines": "2,26,36,338",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,1302,1910,19998",
+                        "endLines": "2,35,124,340",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,1905,7116,20138"
+                    }
+                },
+                {
+                    "source": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "11,12,5,6,4,3,8,10,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "356,396,140,180,95,56,227,316,275",
+                        "endColumns": "39,51,39,45,44,38,47,39,40",
+                        "endOffsets": "391,443,175,221,135,90,270,351,311"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,11,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "116,156,208,248,294,560,875,923,963",
+                        "endColumns": "39,51,39,45,44,38,47,39,40",
+                        "endOffsets": "151,203,243,289,334,594,918,958,999"
+                    }
+                },
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/cd88e0260bdd7a6d6f1bb0a77f02deb1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "10,12,14,272,273,274,275,286,325,327,328,333,335",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "471,599,728,16024,16077,16130,16183,16726,19037,19213,19335,19597,19792",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "555,665,796,16072,16125,16178,16231,16781,19098,19330,19391,19658,19854"
+                    }
+                },
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/CircularFloatingActionMenu-1.0.2.aar/936267717d2c13e08ee2fed4e131720c/res/values/values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "191,251,303,353,403,466",
+                        "endColumns": "59,51,49,49,62,53",
+                        "endOffsets": "246,298,348,398,461,515"
+                    },
+                    "to": {
+                        "startLines": "244,245,246,247,270,271",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "14229,14289,14341,14391,15907,15970",
+                        "endColumns": "59,51,49,49,62,53",
+                        "endOffsets": "14284,14336,14386,14436,15965,16019"
+                    }
+                },
+                {
+                    "source": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,532",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "494,687"
+                    },
+                    "to": {
+                        "startLines": "310,317",
+                        "startColumns": "4,4",
+                        "startOffsets": "18246,18559",
+                        "endLines": "316,319",
+                        "endColumns": "12,12",
+                        "endOffsets": "18554,18714"
+                    }
+                },
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,319,617,3523,5588,7348,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652",
+                        "endLines": "2,3,4,5,12,55,87,124,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,240,314,612,3518,5583,7343,7720,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714"
+                    },
+                    "to": {
+                        "startLines": "8,9,13,15,19,125,168,200,237,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,276,277,278,279,280,281,282,283,284,285,287,306,320,321,326,329,334,336,337",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "339,408,670,801,1004,7121,10027,12092,13852,14441,14511,14579,14651,14721,14782,14856,14929,14990,15051,15113,15177,15239,15300,15368,15468,15528,15594,15667,15736,15793,15845,16236,16308,16384,16419,16454,16504,16565,16622,16656,16691,16786,17973,18719,18836,19103,19396,19663,19859,19931",
+                        "endLines": "8,9,13,15,25,167,199,236,243,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,276,277,278,279,280,281,282,283,284,285,287,306,320,324,326,332,334,336,337",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "403,466,723,870,1297,10022,12087,13847,14224,14506,14574,14646,14716,14777,14851,14924,14985,15046,15108,15172,15234,15295,15363,15463,15523,15589,15662,15731,15788,15840,15902,16303,16379,16414,16449,16499,16560,16617,16651,16686,16721,16851,18039,18831,19032,19208,19592,19787,19926,19993"
+                    }
+                },
+                {
+                    "source": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/res/values/string.xml",
+                    "from": {
+                        "startLines": "3,18,23,14,20,15,17,4,8,7,16,19,5,9,13,6,10,22,11,12,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,1034,1307,747,1132,845,980,97,309,247,900,1082,150,373,642,201,427,1254,498,573,1196",
+                        "endColumns": "40,47,67,97,63,54,53,52,63,61,79,49,50,53,104,45,70,52,74,68,57",
+                        "endOffsets": "92,1077,1370,840,1191,895,1029,145,368,304,975,1127,196,422,742,242,493,1302,568,637,1249"
+                    },
+                    "to": {
+                        "startLines": "288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,307,308,309",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16856,16897,16945,17013,17111,17175,17230,17284,17337,17401,17463,17543,17593,17644,17698,17803,17849,17920,18044,18119,18188",
+                        "endColumns": "40,47,67,97,63,54,53,52,63,61,79,49,50,53,104,45,70,52,74,68,57",
+                        "endOffsets": "16892,16940,17008,17106,17170,17225,17279,17332,17396,17458,17538,17588,17639,17693,17798,17844,17915,17968,18114,18183,18241"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "37,36,11,10,21,20,19,3,18,17,27,28,29,6,8,7,5,14,24,33,32,4,13,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1606,1556,534,472,1014,958,904,153,852,801,1218,1266,1316,310,412,363,260,694,1117,1457,1407,208,644,593",
+                        "endColumns": "50,49,56,56,59,52,50,51,48,47,45,48,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "1652,1601,586,524,1069,1006,950,200,896,844,1259,1310,1361,353,459,406,303,740,1164,1504,1452,253,685,634"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,213,270,330,383,434,486,535,583,629,678,728,776,828,876,924,975,1027,1079,1129,1179,1225",
+                        "endColumns": "50,49,56,56,59,52,50,51,48,47,45,48,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "101,151,208,265,325,378,429,481,530,578,624,673,723,771,823,871,919,970,1022,1074,1124,1174,1220,1266"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/cd88e0260bdd7a6d6f1bb0a77f02deb1/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/cd88e0260bdd7a6d6f1bb0a77f02deb1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/res/values-xlarge/dimens.xml",
+                    "from": {
+                        "startLines": "37,36,11,10,21,20,19,3,18,17,27,28,29,6,8,7,5,14,24,33,32,4,13,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1586,1536,529,467,1010,954,898,148,846,795,1215,1263,1314,305,407,358,255,690,1115,1449,1399,203,640,589",
+                        "endColumns": "50,49,57,56,59,52,51,51,48,47,45,49,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "1632,1581,582,519,1065,1002,945,195,890,838,1256,1308,1359,348,454,401,298,736,1162,1496,1444,248,681,630"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,214,271,331,384,436,488,537,585,631,681,731,779,831,879,927,978,1030,1082,1132,1182,1228",
+                        "endColumns": "50,49,57,56,59,52,51,51,48,47,45,49,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "101,151,209,266,326,379,431,483,532,580,626,676,726,774,826,874,922,973,1025,1077,1127,1177,1223,1269"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-small-v4_values-small-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/src/main/res/values-small/dimens.xml",
+                    "from": {
+                        "startLines": "37,36,11,10,21,20,19,3,18,17,27,28,29,6,8,7,5,14,24,33,32,4,13,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1585,1535,532,470,1013,958,903,148,851,800,1215,1263,1313,305,410,358,255,693,1117,1448,1398,203,642,591",
+                        "endColumns": "50,49,56,56,58,51,50,51,48,47,45,48,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "1631,1580,584,522,1067,1005,949,195,895,843,1256,1307,1358,348,457,401,298,739,1164,1495,1443,248,683,632"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,213,270,329,381,432,484,533,581,627,676,726,774,826,874,922,973,1025,1077,1127,1177,1223",
+                        "endColumns": "50,49,56,56,58,51,50,51,48,47,45,48,49,47,51,47,47,50,51,51,49,49,45,45",
+                        "endOffsets": "101,151,208,265,324,376,427,479,528,576,622,671,721,769,821,869,917,968,1020,1072,1122,1172,1218,1264"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/uonliaquatarain/Desktop/Android_Studio_Projects/CameraRobot-master/app/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/uonliaquatarain/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cf9ea2217c33fb85a448cb6e2dbecfbf/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Sun Nov 19 23:07:31 PKT 2017
+base.0=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/falcons16/Desktop/Backup/CameraRobot/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
