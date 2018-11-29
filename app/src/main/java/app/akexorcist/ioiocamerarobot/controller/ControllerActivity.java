@@ -531,7 +531,7 @@ public class ControllerActivity extends Activity implements ConnectionManager.IO
             final byte[] buffer = bos.toByteArray();
 
 
-            //Couldn't send Image data to IOIO
+            //Thread to send iamge data
             Thread t1 = new Thread(new Runnable() {
                 @Override
                 public void run() {
