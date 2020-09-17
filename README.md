@@ -33,20 +33,21 @@ Hardware Instructions
 + (IOIO) Pin 19 <> BIN1 (TB6612 Right)
 
 
-Download Application
+Humaoid Robot
 ===========================
-<a href="https://play.google.com/store/apps/details?id=app.akexorcist.ioiocamerarobot">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
-</a>
+<video width="320" height="240" autoplay>
+  <source src="https://github.com/deadoralive023/deadoralive023/blob/master/src/Camera%20Robot.mp4" type="video/mp4">
+Your browser does not support the video.
+</video>
+
+<br></br>
+
+<div>
+  <img src="https://github.com/deadoralive023/deadoralive023/blob/master/src/13d033b1-d77d-4013-be24-eff9be689f40.jpeg" style="float: left;  width="500" height="300"; margin-right: 1%; margin-bottom: 0.5em;">
+    <img src="https://github.com/deadoralive023/deadoralive023/blob/master/src/627f8fd1-3329-4007-9e10-ddd705add36f.jpeg" style="float: left;  width="500" height="300"; margin-right: 1%; margin-bottom: 0.5em;">
+    <img src="https://github.com/deadoralive023/deadoralive023/blob/master/src/dd565d71-c37f-4e86-adf5-1d47fe3b2cc0.jpeg" style="float: left;  width="500" height="300"; margin-right: 1%; margin-bottom: 0.5em;">
+    <img src="https://github.com/deadoralive023/deadoralive023/blob/master/src/f879f983-97e9-4bfd-9bcb-8370d069d5a6.jpeg" style="float: left;  width="500" height="300"; margin-right: 1%; margin-bottom: 0.5em;">
+  <p style="clear: both;">
+</div>  
 
 
-Licence
-===========================
-Copyright 2015 Akexorcist
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
